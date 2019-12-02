@@ -17,7 +17,7 @@ $ docker-compose up -d
 3. JupyterのWebアクセス情報取得
 
 ```
-$ docker-compose exec ml-base jupyter notebook list
+$ docker exec -it ml-base jupyter notebook list
 ```
 
 `http://0.0.0.0:8888/xxxxxxx` と表示されるので、
