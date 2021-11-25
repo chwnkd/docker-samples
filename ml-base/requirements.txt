@@ -1,4 +1,4 @@
-dask==2.6.0
+dask==2021.10.0
 jupyter==1.0.0
 kaggle==1.5.6
 lightgbm==2.3.0
