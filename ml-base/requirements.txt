@@ -3,7 +3,7 @@ jupyter==1.0.0
 kaggle==1.5.6
 lightgbm==2.3.0
 matplotlib==2.2.2
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.24.2
 seaborn==0.8.1
 scikit_learn==0.21.3
